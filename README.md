@@ -70,7 +70,7 @@
 
 ---
   <div align="center">
-  <img height="190em" src="https://github-readme-stats.vercel.app/api?username=Larissakich&show_icons=true&theme=date_night&include_all_commits=true&locale=pt-br"/> 
-  <img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=larissakich&theme=date_night&layout=compact&custom_title=Tecnologias&langs_count=9" 
+  <img height="190em" src="https://github-readme-stats.vercel.app/api?username=carolinersant&show_icons=true&theme=date_night&include_all_commits=true&locale=pt-br"/> 
+  <img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carolinersant&theme=date_night&layout=compact&custom_title=Tecnologias&langs_count=9" 
 </div>
 
