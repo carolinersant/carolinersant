@@ -1,7 +1,5 @@
 # 👩🏻‍💻 Caroline Rosa
 
-**`Desenvolvedora FullStack`**
-
 Me chamo **Caroline Rosa**, tenho 29 anos e sou de **Porto Alegre - RS**.  
 Atualmente estou cursando:
 
