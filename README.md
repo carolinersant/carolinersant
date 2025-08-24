@@ -4,14 +4,12 @@
   </a>
 </h1>
 
-<p align="center">Olá, meu nome é Caroline 👋</p>
+🙋🏻‍♀️ Olá! Meu nome é Caroline, sou de Porto Alegre, RS  
 
-🌍 Porto Alegre, RS  
-🎓 **Formação Acadêmica:**  
-- Análise e Desenvolvimento de Sistemas – **PUCRS**  
-- Marketing – **UniRitter**
+🎓 Sou estudante de Análise e Desenvolvimento de Sistemas na **PUCRS** & Marketing na **UniRitter**.
 
-⚡ **Desenvolvedora Full-Stack em formação**  
+⚡ Desenvolvedora Full-Stack em formação| Apaixonada por Desenvolvimento Web e Software.
+
 ✨ Buscando criar soluções digitais completas, explorando tecnologias **front-end** e **back-end**, com foco em aprendizado contínuo e inovação.
 
 ---
