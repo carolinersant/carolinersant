@@ -1,14 +1,17 @@
 # 👩🏻‍💻 Caroline Rosa
 
-Me chamo **Caroline Rosa**, tenho 29 anos e sou de **Porto Alegre - RS**.  
-Atualmente estou cursando:
 
-- 🎓 **Análise e Desenvolvimento de Sistemas** na **PUCRS**  
-- 🎓 **Marketing** na **Uniritter**
+🌍 Porto Alegre, RS  
+🎓 **Educação:**  
+- Análise e Desenvolvimento de Sistemas na **PUCRS**  
+- Marketing na **Uniritter**  
 
-💜 Apaixonada por **tecnologia**, inovação e aprender coisas novas todos os dias!
+⚡ **Full-Stack em Formação** | Apaixonada por Desenvolvimento Web e Software  
+
+✨ **Criando soluções digitais criativas, explorando tecnologias **front-end** e **back-end**, e aprendendo sempre.** 
 
 ---
+
 ### 🤖 Linguagens e Tecnologias
 
 <img 
