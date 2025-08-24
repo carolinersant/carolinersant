@@ -1,13 +1,10 @@
 <h1 align="center">
     <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Capriola&pause=1000&color=DA7885&center=true&vCenter=true&random=true&width=435&separator=%3C&lines=console.log(%22Hello%2C+World!%22);%3CSystem.out.println(%22Hello%2C+World!%22);%3Cprint(%22Hello%2C+World!%22)" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Capriola&pause=94e2d5&color=94e2d5&center=true&vCenter=true&random=true&width=435&separator=%3C&lines=console.log(%22Hello%2C+World!%22);%3CSystem.out.println(%22Hello%2C+World!%22);%3Cprint(%22Hello%2C+World!%22)" alt="Typing SVG" />
   </a>
 </h1>
 
-<p>Olá, meu nome é Gabriela!</p>
-<p>╰› Sou estudante de Análise e Desenvolvimento de Sistemas no Centro Universitário Cesuca.</p>
-<p>╰› Tenho interesse em desenvolvimento Full-stack e foco atual em tecnologias Front-end.</p>
-
+<p>Olá, meu nome é Caroline</p>
 
 🌍 Porto Alegre, RS  
 🎓 **Educação:**  
@@ -15,7 +12,6 @@
 - Marketing na **Uniritter**  
 
 ⚡ **Full-Stack em Formação** | Apaixonada por Desenvolvimento Web e Software  
-
 ✨ **Criando soluções digitais criativas, explorando tecnologias **front-end** e **back-end**, e aprendendo sempre.** 
 
 ---
@@ -69,8 +65,7 @@
 <br/>
 
 ---
-  <div align="center">
-  <img height="190em" src="https://github-readme-stats.vercel.app/api?username=carolinersant&show_icons=true&theme=date_night&include_all_commits=true&locale=pt-br"/> 
-  <img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carolinersant&theme=date_night&layout=compact&custom_title=Tecnologias&langs_count=9" 
+ <div align="center">
+  <img height="195em" src="https://github-readme-stats.vercel.app/api?username=Larissakich&show_icons=true&theme=catppuccin_mocha&include_all_commits=true&locale=pt-br"/> 
+  <img height="195em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=larissakich&theme=catppuccin_mocha&layout=compact&custom_title=Tecnologias&langs_count=9"/>
 </div>
-
