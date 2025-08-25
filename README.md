@@ -4,66 +4,30 @@
   </a>
 </h1>
 
-🙋🏻‍♀️ Olá! Meu nome é Caroline, sou de Porto Alegre, RS  
+🙋🏻‍♀️ Olá! Meu nome é **Caroline**, sou de Porto Alegre, RS.  
 
-🎓 Sou estudante de Análise e Desenvolvimento de Sistemas na **PUCRS** & Marketing na **UniRitter**.
-
-⚡ Desenvolvedora Full-Stack em formação| Apaixonada por Desenvolvimento Web e Software.
-
-✨ Buscando criar soluções digitais completas, explorando tecnologias **front-end** e **back-end**, com foco em aprendizado contínuo e inovação.
+🎓 Estudante de Análise e Desenvolvimento de Sistemas na **PUCRS** & Marketing na **UniRitter**.  
+⚡ Desenvolvedora Full-Stack em formação, apaixonada por Desenvolvimento Web e Software.  
+✨ Buscando criar soluções digitais completas com tecnologias **Front-End** e **Back-End**.
 
 ---
 
-### 🤖 Tecnologias e Ferramentas
+### 🤖 Linguagens e Tecnologias
 
-<img 
-  align="left" 
-  alt="HTML"
-  title="HTML" 
-  width="35px" 
-  style="padding-right: 10px;" 
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
-/>
-<img 
-  align="left" 
-  alt="CSS" 
-  title="CSS"
-  width="35px" 
-  style="padding-right: 10px;" 
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
-/>
-<img 
-  align="left" 
-  alt="JavaScript" 
-  title="JavaScript"
-  width="35px" 
-  style="padding-right: 10px;" 
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
-/>
-<img 
-  align="left" 
-  alt="Python" 
-  title="Python"
-  width="35px" 
-  style="padding-right: 10px;" 
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
-/>
-<img 
-  align="left" 
-  alt="SQL" 
-  title="SQL"
-  width="35px" 
-  style="padding-right: 10px;" 
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" 
-/>
-
-<br/>
-<br/>
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="40" alt="HTML" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="40" alt="CSS" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="40" alt="JavaScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="40" alt="Python" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" width="40" alt="SQL" />
+</p>
 
 ---
 
-  <div align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=carolinersant&show_icons=true&theme=nightowl&include_all_commits=true&locale=pt-br"/> 
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carolinersant&theme=nightowl&layout=compact&custom_title=Tecnologias&langs_count=9"/>
-</div>
+### 📊 Estatísticas
+
+<p align="center">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=carolinersant&count_private=true&show_icons=true&theme=tokyonight"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carolinersant&layout=compact&theme=tokyonight"/>
+</p>
 
