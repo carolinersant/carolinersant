@@ -27,7 +27,7 @@
 ### 📊 Estatísticas
 
 <p align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=carolinersant&count_private=true&show_icons=true&theme=tokyonight"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carolinersant&layout=compact&theme=tokyonight"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=carolinersant&show_icons=true&theme=nightowl&include_all_commits=true&locale=pt-br"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carolinersant&layout=compact&theme=nightowl"/>
 </p>
 
