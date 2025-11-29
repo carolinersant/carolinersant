@@ -14,31 +14,33 @@
 
 ### 🤖 Linguagens e Tecnologias
 
-<p align="center">
+<br>
+
+<div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,html,css,python,react,figma" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,py,bootstrap,sqlite,nodejs,figma" />
   </a>
-</p>
+</div>
+
+<br>
+
+
 
 ---
 
-### 📊 Estatísticas
+### 🤖 Linguagens e Tecnologias
 
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=carolinersant&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
+<div align="center">
+  <img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=carolinersant&theme=omni&hide_border=true&background=232937" alt="GitHub Streak"/> 
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carolinersant&layout=compact&hide_border=true&theme=omni&bg_color=232937&langs_count=6" alt="Most Used Languages"/>
+</div>
 
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=carolinersant&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
 
-</p>
+
+
+
+
+
+
+
 
