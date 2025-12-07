@@ -9,27 +9,11 @@
   </a>
 </h1>
 
-<div align="center">
 
-<p>
-
-  <a href="https://www.linkedin.com/in/rosa-caroline/" title="LinkedIn">
-    <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-
-  <a href="https://open.spotify.com/user/12142933708" title="Spotify">
-    <img src="https://img.shields.io/badge/-Spotify-25d366?style=flat-square&labelColor=25d366&logo=spotify&logoColor=white" alt="Spotify"/>
-  </a>
-
-  <a href="https://www.instagram.com/cah.rosa" title="Instagram">
-    <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white" alt="Instagram"/>
-  </a>
-</p>
-</div>
 
 ---
 🙋🏻‍♀️ Olá! Meu nome é **Caroline**, sou de Porto Alegre, RS.  
-🎓 Estudante de Análise e Desenvolvimento de Sistemas na **PUCRS** & Marketing na **UniRitter**.  
+🎓 Estudante de Análise e Desenvolvimento de Sistemas na **PUCRS**.  
 ⚡ Desenvolvedora Full-Stack em formação, apaixonada por Desenvolvimento Web e Software.  
 ✨ Buscando criar soluções digitais completas com tecnologias **Front-End** e **Back-End**.
 
@@ -78,7 +62,30 @@
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 />
-
+<img 
+    align="left" 
+    alt="figma" 
+    title="Figma"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="MySQL" 
+    title="MySQL"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Git" 
+    title="Git"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
+/>
 
 </div>
 <br/>
@@ -93,5 +100,20 @@
   alt="GitHub Streak"
 />
 
+</div>
+
+<div align="center">
+
+<p>
+<div align="center">
+  <a href="https://www.linkedin.com/in/rosa-caroline/">
+    <img src="https://img.shields.io/badge/-LinkedIn-222937?style=for-the-badge&logo=linkedin&logoColor=fff"/>
+  </a>
+  <a href="https://www.instagram.com/cah.rosa">
+    <img src="https://img.shields.io/badge/-Instagram-222937?style=for-the-badge&logo=instagram&logoColor=fff"/>
+  </a>
+   <a href=""https://open.spotify.com/user/12142933708">
+    <img src="https://img.shields.io/badge/-Spotify-222937?style=for-the-badge&logo=spotify&logoColor=fff"/>
+  </a>
 </div>
 
