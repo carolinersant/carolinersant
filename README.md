@@ -9,34 +9,6 @@
   </a>
 </h1>
 
-
-
----
-🙋🏻‍♀️ Olá! Meu nome é **Caroline**, sou de Porto Alegre, RS.  
-🎓 Estudante de Análise e Desenvolvimento de Sistemas na **PUCRS**.  
-⚡ Desenvolvedora Full-Stack em formação, apaixonada por Desenvolvimento Web e Software.  
-✨ Buscando criar soluções digitais completas com tecnologias **Front-End** e **Back-End**.
-
-
----
-
-<div align="center">
-
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,sass,python,react,figma,)](https://skillicons.dev)
-
----
-<div align="center">
-
-<img 
-  height="160em" 
-  src="https://github-readme-streak-stats.herokuapp.com/?user=carolinersant&theme=omni&hide_border=true&background=232937" 
-  alt="GitHub Streak"
-/>
-
-</div>
-
-<div align="center">
-
 <p>
 <div align="center">
   <a href="https://www.linkedin.com/in/rosa-caroline/">
@@ -48,5 +20,42 @@
    <a href=""https://open.spotify.com/user/12142933708">
     <img src="https://img.shields.io/badge/-Spotify-222937?style=for-the-badge&logo=spotify&logoColor=fff"/>
   </a>
+</div>
+
+---
+🙋🏻‍♀️ Olá! Meu nome é **Caroline**, sou de Porto Alegre, RS.  
+🎓 Estudante de Análise e Desenvolvimento de Sistemas na **PUCRS**.  
+⚡ Desenvolvedora Full-Stack em formação, apaixonada por Desenvolvimento Web e Software.  
+✨ Buscando criar soluções digitais completas com tecnologias **Front-End** e **Back-End**.
+
+---
+
+### 🤖  Linguagens e Tecnologias
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="phyton logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="40" alt="sass logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="sass logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
+</div>
+
+##
+---
+ 
+### 📊 Estatísticas
+
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=carolinersant&locale=en&hide_title=false&layout=compact&card_width=380&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
