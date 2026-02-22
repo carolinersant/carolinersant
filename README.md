@@ -17,7 +17,7 @@
   <a href="https://www.instagram.com/cah.rosa">
     <img src="https://img.shields.io/badge/-Instagram-222937?style=for-the-badge&logo=instagram&logoColor=fff"/>
   </a>
-   <a href=""https://open.spotify.com/user/12142933708">
+   <a href="https://open.spotify.com/user/12142933708">
     <img src="https://img.shields.io/badge/-Spotify-222937?style=for-the-badge&logo=spotify&logoColor=fff"/>
   </a>
 </div>
