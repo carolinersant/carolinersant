@@ -52,12 +52,5 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
 </div>
 
-##
----
+
  
-### 📊 Estatísticas
-
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=carolinersant&locale=en&hide_title=false&layout=compact&card_width=380&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
-
